@@ -1,4 +1,4 @@
-![Image](banner)
+![Banner (if you see this report it to the discord)](banner)
 # OldRec Launcher - Locally hosted server software to use older builds of Rec Room
 
 ## About

@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/Funnidevv/OldRecLauncher/refs/heads/main/NewBanner.png)
+![Image](banner)
 # OldRec Launcher - Locally hosted server software to use older builds of Rec Room
 
 ## About
